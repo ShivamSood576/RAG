@@ -62,7 +62,7 @@ This project is a **Streamlit-based application** that allows users to upload a 
 
 ```
 pdf-chat-app/
-├── proj4.py                 # Main application file
+├── app.py                 # Main application file
 ├── requirements.txt       # Python dependencies
 ├── record.csv             # Logs conversations with timestamps (generated after interaction)
 └── README.md              # Project documentation
