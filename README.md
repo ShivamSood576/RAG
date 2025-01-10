@@ -44,7 +44,7 @@ This project is a **Streamlit-based application** that allows users to upload a 
 1. Clone the repository:
 
    ```bash
-   [git clone https://github.com/your-repo-name/pdf-chat-app.git](https://github.com/prashantsingh5/RAG-based_Chatbot.git)
+   [git clone https://github.com/your-repo-name/pdf-chat-app.git]
    cd RAG-based_Chatbot
    ```
 
