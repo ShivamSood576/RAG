@@ -1,0 +1,6 @@
+2025-01-10 12:37:49,yolov9_paper.pdf,what is yolov9,"YOLOv9 is an object detection model that builds upon the YOLOv7 architecture.  It utilizes a new block design called CSP-ELAN, simplifies the downsampling module (DOWN), and optimizes the prediction layer with a decoupled branch for regression.  It outperforms other real-time object detectors on the MS COCO dataset and has fewer parameters and less computation than PPYOLOE+-X.
+"
+2025-01-10 12:38:30,yolov9_paper.pdf,what is Auxiliary Supervision?,"Auxiliary supervision is a common method that uses relevant meta-information to guide the feature maps produced by the intermediate layers, giving them the properties needed for target tasks.  Examples include using segmentation loss or depth loss to improve the accuracy of object detectors.  Deep supervision is the most common type of auxiliary supervision.  It inserts additional prediction layers in the middle layers for training, such as the application of multi-layer decoders in transformer-based methods.
+"
+2025-01-10 12:39:40,yolov9_paper.pdf,what is Generalized ELAN?,"Generalized ELAN (GELAN) is a new network architecture combining two neural network architectures, CSPNet and ELAN.  It's designed to support any computational blocks.
+"
